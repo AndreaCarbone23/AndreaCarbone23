@@ -85,21 +85,27 @@ I enjoy turning ideas into functional systems, combining software, hardware and 
 
 ![Personal Project](https://img.shields.io/badge/Personal_Project-E10600?style=flat-square)
 ![In Development](https://img.shields.io/badge/In_Development-18181B?style=flat-square)
+![Private Repository](https://img.shields.io/badge/Private_Repository-18181B?style=flat-square)
 
 A multimodal AI-powered personal assistant designed for macOS, inspired by the concept of intelligent human-computer interaction.
 
-The project combines artificial intelligence, voice interaction, computer vision and desktop automation, with ongoing development focused on hardware integration.
+The project combines artificial intelligence, voice interaction, screen understanding and desktop automation within a custom graphical interface.
 
 **Key areas:**
 
-- Large Language Models
+- Large Language Models and conversational AI
+- Dedicated AI coding assistant
 - Speech recognition and text-to-speech
-- Gesture recognition
+- Local wake word detection
 - Computer vision and screen understanding
-- Desktop automation
-- Arduino and embedded systems integration
+- macOS desktop automation
+- Custom Orb and chat interface
 
-**Stack:** Python · PyQt6 · Groq · MediaPipe · Arduino
+**Stack:** Python · PyQt6 · Groq · OpenWakeWord · Edge-TTS · PyAutoGUI
+
+**Development roadmap:** Arduino Mega 2560 integration, gesture recognition, interactive LED synchronization and a physical desk companion.
+
+*Source code maintained in a private repository.*
 
 ---
 
@@ -116,28 +122,37 @@ An educational human-robot interaction project exploring how artificial intellig
 - User Experience Design
 - Educational robotics
 - Conversational AI
+- Speech recognition and synthesis
 - Interactive prototyping
 
 **Stack:** Python · Misty II · LLMs · Speech Technologies
 
 ---
 
-### IS26-AM54
+### [MESOS — IS26-AM54](https://github.com/nutriandrea/MESOS-IS26-AM54)
 
 ![University Project](https://img.shields.io/badge/University_Project-E10600?style=flat-square)
 ![Team Project](https://img.shields.io/badge/Team_Project-18181B?style=flat-square)
+![Grade](https://img.shields.io/badge/Final_Grade-30L%2F30-18181B?style=flat-square)
 
-Software Engineering project developed at Politecnico di Milano, focused on collaborative software development and object-oriented architecture.
+Distributed multiplayer implementation of the board game **Mesos**, developed as a Software Engineering final project at Politecnico di Milano during the academic year 2025–2026.
+
+The project combines object-oriented software architecture, distributed communication and interactive game interfaces.
 
 **Key areas:**
 
-- Object-Oriented Programming
-- Software architecture
-- Design patterns
-- Software testing
-- Version control and team collaboration
+- Distributed client-server architecture
+- Multiplayer support for 2–5 players
+- TCP Socket and Java RMI communication
+- JavaFX graphical interface and CLI
+- Object-oriented architecture and design patterns
+- Automatic reconnection and crash recovery
+- PostgreSQL leaderboard and data persistence
+- Unit and integration testing
 
-**Stack:** Java · Maven · JUnit · Git
+**Stack:** Java 25 · JavaFX · Maven · JUnit · TCP · RMI · PostgreSQL
+
+[View repository →](https://github.com/nutriandrea/MESOS-IS26-AM54)
 
 <br/>
 
