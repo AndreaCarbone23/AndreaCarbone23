@@ -170,14 +170,9 @@ Software Engineering project developed at Politecnico di Milano, focused on coll
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AndreaCarbone23&show_icons=true&hide_border=false&border_color=303030&bg_color=101012&title_color=E10600&text_color=FFFFFF&icon_color=E10600&border_radius=8"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=AndreaCarbone23&show_icons=true&hide_rank=true&hide_border=false&border_color=303030&bg_color=101012&title_color=E10600&text_color=FFFFFF&icon_color=E10600&border_radius=8"
+    width="75%"
     alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaCarbone23&layout=compact&hide_border=false&border_color=303030&bg_color=101012&title_color=E10600&text_color=FFFFFF&border_radius=8"
-    width="49%"
-    alt="Most used languages"
   />
 </p>
 
