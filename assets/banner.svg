@@ -1,0 +1,66 @@
+ <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+  <defs>
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#18181B"/>
+      <stop offset="100%" stop-color="#080809"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" rx="12" fill="url(#background)"/>
+
+  <!-- Motorsport geometric elements -->
+  <path d="M980 0 H1200 V400 H730 Z" fill="#1E1E21"/>
+  <path d="M1080 0 H1105 L855 400 H830 Z" fill="#E10600"/>
+  <path d="M1150 0 H1156 L906 400 H900 Z" fill="#E10600" opacity="0.5"/>
+  <path d="M945 0 H947 L697 400 H695 Z" fill="#FFFFFF" opacity="0.06"/>
+
+  <!-- Top label -->
+  <text x="65" y="65"
+        fill="#E10600"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="18"
+        font-weight="bold"
+        letter-spacing="6">
+    ENGINEERING / TECHNOLOGY
+  </text>
+
+  <!-- Name -->
+  <text x="59" y="165"
+        fill="#FFFFFF"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="92"
+        font-weight="900"
+        letter-spacing="3">
+    ANDREA
+  </text>
+
+  <text x="59" y="254"
+        fill="#FFFFFF"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="92"
+        font-weight="900"
+        letter-spacing="3">
+    CARBONE
+  </text>
+
+  <!-- Red accent -->
+  <rect x="65" y="278" width="110" height="5" fill="#E10600"/>
+
+  <!-- Education -->
+  <text x="65" y="326"
+        fill="#D4D4D8"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="26">
+    Computer Engineering @ Politecnico di Milano
+  </text>
+
+  <!-- Interests -->
+  <text x="65" y="368"
+        fill="#A1A1AA"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        letter-spacing="4">
+    AI / SOFTWARE / ROBOTICS
+  </text>
+</svg>

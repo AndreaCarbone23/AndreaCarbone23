@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="100"
+     viewBox="0 0 1200 100">
+
+  <rect width="1200"
+        height="100"
+        rx="8"
+        fill="#101012"/>
+
+  <path d="M0 0 H100 L40 100 H0 Z"
+        fill="#1E1E21"/>
+
+  <path d="M1200 0 H1100 L1040 100 H1200 Z"
+        fill="#1E1E21"/>
+
+  <path d="M1100 0 H1112 L1052 100 H1040 Z"
+        fill="#E10600"/>
+
+  <text x="600"
+        y="57"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="23"
+        font-weight="bold"
+        letter-spacing="4">
+
+    <tspan fill="#FFFFFF">FROM CONCEPT.</tspan>
+    <tspan fill="#E10600"> TO CREATION.</tspan>
+
+  </text>
+
+</svg>
